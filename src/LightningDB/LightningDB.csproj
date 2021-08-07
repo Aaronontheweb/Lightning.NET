@@ -2,14 +2,10 @@
 
   <PropertyGroup>
     <Description>LightningDB - vendored package for Akka.NET only up until a new official one is published.</Description>
-    <VersionPrefix>0.13.0</VersionPrefix>
-<<<<<<< HEAD
+    <VersionPrefix>0.14.2</VersionPrefix>
     <Authors>Ilya Lukyanov;Corey Kaylor;</Authors>
-    <TargetFrameworks>netstandard2.0;netcoreapp3.1;net5.0</TargetFrameworks>
-=======
     <Authors>Ilya Lukyanov;Corey Kaylor</Authors>
     <TargetFramework>netstandard2.0</TargetFramework>
->>>>>>> parent of a6cee1e (Making Windows auto resize work with netcore3.1 and net5.0 (#138))
     <AssemblyName>LightningDB</AssemblyName>
     <PackageId>LightningDB.Vendored.Akka</PackageId>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -17,7 +13,6 @@
     <PackageProjectUrl>https://github.com/CoreyKaylor/Lightning.NET</PackageProjectUrl>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <PackageVersion>0.14.0</PackageVersion>
     <Title>LightningDB.Vendored.Akka</Title>
   </PropertyGroup>
   
